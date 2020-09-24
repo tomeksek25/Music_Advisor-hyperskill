@@ -12,7 +12,8 @@ Using the Spotify authorization guide and the information given here (you need t
 
 Also, in this stage, you should read the Spotify access server point from the command line argument. Server path should be passed to the program using -access argument. If this argument is not set, you should use a default argument, https://accounts.spotify.com. Make sure you replace constants to this argument value everywhere!
 
-//komentarz: do wybrania portu użyłem pseudolosowości bo coś się nie zgadzało z ich testami i jak bł jeden port to wyskakiwało, że jest zajęty, więc każdy test sobie losował port.
+
+//comment: for choosing a port I used Random, because I had problem with tests from hyperskill and I coudn't pass it because the port was taken.
 
 NEXT STAGE:
 
