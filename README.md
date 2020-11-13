@@ -1,6 +1,8 @@
 # SpotiApi hyperskill project
 
-Short description: A project made for training Json exchanges, to get to know what is and make a simple server with a handler (to communicate with Spotify or with testing server).
+Short description: A project made for training Json exchanges, to get to know what is and make a simple server with a handler (to communicate with Spotify or with testing server), how to handle POST, GET queries etc. The self-made pagination for viewing results is used.
+
+
 
 First Stage:
 Using the Spotify authorization guide and the information given here (you need the section Authorization Code Flow), improve your program by adding real authorization on Spotify.
