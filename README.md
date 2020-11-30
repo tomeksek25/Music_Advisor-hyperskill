@@ -1,6 +1,6 @@
 # Music_Advisor hyperskill project
 
-Short description: A project made for training Json exchanges, to get to know what is and make a simple server with a handler (to communicate with Spotify or with testing server), how to make POST, GET queries etc. The self-made pagination for viewing results is used. The project is based on MVC pattern.
+Short description: A project made for training Json exchanges, to get to know what it is and make a simple server with a handler (to communicate with Spotify or with testing server), how to make POST, GET queries etc. The self-made pagination for viewing results is used. The project is based on MVC pattern.
 
 
 
